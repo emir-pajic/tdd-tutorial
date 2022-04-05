@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BHGovernment.FireDepartment.API", "BHGovernment.FireDepartment.API\BHGovernment.FireDepartment.API.csproj", "{E19EE135-5985-4E07-8469-A72D25FDF45B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BHGovernment.FireDepartment.Tests", "BHGovernment.FireDepartment.Tests\BHGovernment.FireDepartment.Tests.csproj", "{755C4BBE-F560-43EB-B30B-F6548E123282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19EE135-5985-4E07-8469-A72D25FDF45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19EE135-5985-4E07-8469-A72D25FDF45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19EE135-5985-4E07-8469-A72D25FDF45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19EE135-5985-4E07-8469-A72D25FDF45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755C4BBE-F560-43EB-B30B-F6548E123282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755C4BBE-F560-43EB-B30B-F6548E123282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755C4BBE-F560-43EB-B30B-F6548E123282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755C4BBE-F560-43EB-B30B-F6548E123282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D21A77D-14F1-472B-B75F-075C2F62B391}
+	EndGlobalSection
+EndGlobal
